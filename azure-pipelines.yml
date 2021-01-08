@@ -7,4 +7,4 @@ pool:
 steps: 
 - task: GoTool@0
   inputs:
-    version: 'go1.15'
+    version: 'go1.15.6'
